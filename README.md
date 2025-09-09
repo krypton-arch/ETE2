@@ -63,6 +63,3 @@ node app.js
 ## Customization
 - You can further enhance the UI, add authentication, or expand features as needed.
 
-## License
-MIT
-# ETE2
